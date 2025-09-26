@@ -36,7 +36,6 @@ Bu adımlar sonucunda temel CNN modeli test setinde yaklaşık **%87 doğruluk**
 ## Sonuçlar
 - Temel CNN doğruluk: 0.8713
 - Transfer Learning doğruluk: 0.7814
-- Confusion matrix ve diğer görseller için `/images` klasörüne bakınız.
 
 ## Kaggle Notebook
 https://www.kaggle.com/code/hasanctn/akbank-dl-bootcamp-project-intel-image-classifica
